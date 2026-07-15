@@ -1,10 +1,8 @@
 cv:
   name: Brian J. Sousa
-  label: Doctoral Student in Environmental Health
+  headline: Doctoral Student in Environmental Health
   email: briansousa97@gmail.com
   location: Boston, MA
-  image: ""
-  summary: ""
 
   social_networks:
     - network: GitHub
@@ -12,26 +10,21 @@ cv:
     - network: LinkedIn
       username: briansousa97
 
-  address:
-    city: Boston
-    region: Massachusetts
-    countryCode: US
-
   sections:
     Education:
       - institution: Boston University
         location: Boston, MA
         url: https://www.bu.edu
         area: Environmental Health
-        studyType: Doctoral Student
+        degree: PhD
         start_date: 2025
-        end_date: Present
+        end_date: present
 
       - institution: Boston University
         location: Boston, MA
         url: https://www.bu.edu
         area: Population Health Research, Climate and Health
-        studyType: MS
+        degree: MS
         start_date: 2023
         end_date: 2025
 
@@ -39,7 +32,7 @@ cv:
         location: Boston, MA
         url: https://www.northeastern.edu
         area: Applied Physics
-        studyType: BS
+        degree: BS
         start_date: 2015
         end_date: 2020
 
@@ -111,9 +104,9 @@ cv:
           - Worked with Design and Power Engineers to update later stage project designs based on updated drawings.
 
     Awards:
-      - title: Graduate Student Summer Fellow
+      - name: Graduate Student Summer Fellow
+        date: "2024"
         awarder: Boston University Institute for Global Sustainability
-        date: 2024
 
     Presentations:
       - bullet: "Sousa, B., Who Lives Near Crypto Mines? Characterizing Populations Near Cryptocurrency Mining Centers in the U.S. - Seminar presentation at the Gijs Van Seventer Environmental Health Seminar, Boston University School of Public Health, Department of Environmental Health. April 2026: Boston, MA."
@@ -138,8 +131,8 @@ cv:
           - Michanowicz, D. R.
           - Shonkoff, S. B. C.
           - Buonocore, J. J.
-        publisher: Communications Sustainability
-        releaseDate: 2026
+        journal: Communications Sustainability
+        date: "2026"
         url: https://doi.org/10.1038/s44458-026-00068-0
 
       - title: "High populations near fossil fuel energy infrastructure across the supply chain and implications for an equitable energy transition"
@@ -152,8 +145,8 @@ cv:
           - Fabian, M. P.
           - Nori-Sarma, A.
           - Willis, M. D.
-        publisher: Environmental Research Letters
-        releaseDate: 2025
+        journal: Environmental Research Letters
+        date: "2025"
         url: https://doi.org/10.1088/1748-9326/ae0da6
 
       - title: "Assessing the climate and health impacts of energy consumption in European Union countries"
@@ -164,8 +157,8 @@ cv:
           - Sousa, B.
           - Ferguson, L.
           - Allen, J. G.
-        publisher: Environmental Research Letters
-        releaseDate: 2025
+        journal: Environmental Research Letters
+        date: "2025"
         url: https://doi.org/10.1088/1748-9326/add752
 
       - title: "Federal policy platforms and public health: Reinforcing the benefits of air pollution control devices at power plants in the United States"
@@ -179,8 +172,8 @@ cv:
           - Kinney, P.
           - Sousa, B.
           - Levy, J. I.
-        publisher: American Journal of Public Health
-        releaseDate: 2025
+        journal: American Journal of Public Health
+        date: "2025"
         url: https://doi.org/10.2105/AJPH.2024.307896
 
       - title: "A novel method for calculating the projected health and climate co-benefits of energy savings through 2050"
@@ -191,8 +184,8 @@ cv:
           - Lahvis, M.
           - Sousa, B.
           - Allen, J. G.
-        publisher: Building and Environment
-        releaseDate: 2023
+        journal: Building and Environment
+        date: "2023"
         url: https://doi.org/10.1016/j.buildenv.2023.110618
 
       - title: "Early Adoption of strategies to meet building performance standards increases benefits to both climate and health"
@@ -204,5 +197,5 @@ cv:
           - Pendleton, J.
           - Rainbolt, M.
           - Allen, J. G.
-        publisher: Under Review
+        journal: Under Review
 
