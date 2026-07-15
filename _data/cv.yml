@@ -25,7 +25,7 @@ cv:
         area: Environmental Health
         studyType: Doctoral Student
         start_date: 2025
-        end_date: Current
+        end_date: Present
 
       - institution: Boston University
         location: Boston, MA
@@ -41,14 +41,14 @@ cv:
         area: Applied Physics
         studyType: BS
         start_date: 2015
-        end_date: 2025
+        end_date: 2020
 
     Experience:
       - company: Boston University School of Public Health
         position: Research Analyst
         location: Boston, MA
-        start_date: 8/2023
-        end_date: 8/2025
+        start_date: 2023-08
+        end_date: 2025-08
         highlights:
           - Updated and maintained the Co-Benefits of the Built Environment (CoBE) tool and assisted with development of future versions and modules added to the CoBE toolbox.
           - Designed novel experiments run through the CoBE tool and assisted in the writing of papers intended for submission for the peer-reviewed literature.
@@ -61,8 +61,8 @@ cv:
       - company: Harvard T.H. Chan School of Public Health
         position: Research Assistant
         location: Boston, MA
-        start_date: 5/2022
-        end_date: 7/2023
+        start_date: 2022-05
+        end_date: 2023-07
         highlights:
           - Managed the CoBE Tool, a web-based tool to aid in understanding the climate and health impacts of the energy consumption of buildings.
           - Assisted in updating the CoBE Tool and developing new tools and features.
@@ -73,8 +73,8 @@ cv:
       - company: REsurety, Inc.
         position: Risk and Transaction Analyst
         location: Boston, MA
-        start_date: 1/2021
-        end_date: 4/2022
+        start_date: 2021-01
+        end_date: 2022-04
         highlights:
           - Settled hedging contracts for renewable energy projects by cleaning, and analyzing raw site data using R.
           - Evaluated renewable energy contracts for utility scale projects using meteorological and electricity market data.
@@ -83,8 +83,8 @@ cv:
       - company: National Renewable Energy Laboratory
         position: Research Intern
         location: Golden, CO
-        start_date: 8/2020
-        end_date: 12/2020
+        start_date: 2020-08
+        end_date: 2020-12
         highlights:
           - Collected, parsed, and cleaned hourly emissions data for natural gas power plants in order to analyze nitrogen oxide to describe their emissions profiles empirically and statistically during categorized non-steady state conditions.
           - Applied k-means and gaussian mixture model clustering algorithms using python to differentiate steady and non-steady state power plant emission rates.
@@ -93,8 +93,8 @@ cv:
       - company: Center for Climate, Health, and The Global Environment
         position: Research Assistant
         location: Boston, MA
-        start_date: 2/2020
-        end_date: 8/2020
+        start_date: 2020-02
+        end_date: 2020-08
         highlights:
           - Built a program in python to plot and test the reported emission rates by the EPA of SO2, CO2, and NOX from multiple types of power plants in the Northeast.
           - Ran simulations using GridPIQ and AVERT programs in order to test the difference in emissions of different charging scenarios for electric vehicles in regions throughout the US.
@@ -103,8 +103,8 @@ cv:
       - company: Nexamp, Inc
         position: Solar Design Engineering Intern
         location: Boston, MA
-        start_date: 6/2019
-        end_date: 12/2019
+        start_date: 2019-06
+        end_date: 2019-12
         highlights:
           - Designed site plans for potential solar projects in AutoCAD, Helios, and Helioscope, while considering local and national standards for offsets and design limitations.
           - Performed energy model simulations in PVSyst in order to analyze the capacity factor of projects and the losses due to shading and stringing.
