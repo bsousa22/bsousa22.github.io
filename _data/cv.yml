@@ -1,189 +1,208 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Brian J. Sousa
+  label: Doctoral Student in Environmental Health
+  email: briansousa97@gmail.com
+  location: Boston, MA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: ""
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: bsousa22
     - network: LinkedIn
-      username: example
+      username: briansousa97
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    city: Boston
+    region: Massachusetts
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Boston University
+        location: Boston, MA
+        url: https://www.bu.edu
+        area: Environmental Health
+        studyType: Doctoral Student
+        start_date: 2025
+        end_date: Current
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Boston University
+        location: Boston, MA
+        url: https://www.bu.edu
+        area: Population Health Research, Climate and Health
+        studyType: MS
+        start_date: 2023
+        end_date: 2025
+
+      - institution: Northeastern University
+        location: Boston, MA
+        url: https://www.northeastern.edu
+        area: Applied Physics
+        studyType: BS
+        start_date: 2015
+        end_date: 2025
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Boston University School of Public Health
+        position: Research Analyst
+        location: Boston, MA
+        start_date: 8/2023
+        end_date: 8/2025
         highlights:
-          - Relativity
-          - Description 2.
+          - Updated and maintained the Co-Benefits of the Built Environment (CoBE) tool and assisted with development of future versions and modules added to the CoBE toolbox.
+          - Designed novel experiments run through the CoBE tool and assisted in the writing of papers intended for submission for the peer-reviewed literature.
+          - Reported and presented findings to outside stakeholders, including funders, policymakers, building owners, investors, and other stakeholders.
+          - Collected, cataloged, and QA/QC energy infrastructure and population health data.
+          - Used GIS analytical techniques to assess siting patterns of energy infrastructure.
+          - Developed exposure indices based on energy infrastructure data and data on emissions, use intensity, or other variables that serve as a proxy for intensity of use.
+          - Reported results and participated in workshops for the research community at BUSPH and the Institute for Global Sustainability at Boston University.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Harvard T.H. Chan School of Public Health
+        position: Research Assistant
+        location: Boston, MA
+        start_date: 5/2022
+        end_date: 7/2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - Managed the CoBE Tool, a web-based tool to aid in understanding the climate and health impacts of the energy consumption of buildings.
+          - Assisted in updating the CoBE Tool and developing new tools and features.
+          - Conducted modeling and analysis for ongoing co-benefits research projects.
+          - Led independent research projects and presented findings at conferences.
+          - Developed case studies using the CoBE Tool and co-authored papers reporting findings.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: REsurety, Inc.
+        position: Risk and Transaction Analyst
+        location: Boston, MA
+        start_date: 1/2021
+        end_date: 4/2022
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Settled hedging contracts for renewable energy projects by cleaning, and analyzing raw site data using R.
+          - Evaluated renewable energy contracts for utility scale projects using meteorological and electricity market data.
+          - Worked with other analysts to execute quality control checks on data critical to business processes.
+
+      - company: National Renewable Energy Laboratory
+        position: Research Intern
+        location: Golden, CO
+        start_date: 8/2020
+        end_date: 12/2020
+        highlights:
+          - Collected, parsed, and cleaned hourly emissions data for natural gas power plants in order to analyze nitrogen oxide to describe their emissions profiles empirically and statistically during categorized non-steady state conditions.
+          - Applied k-means and gaussian mixture model clustering algorithms using python to differentiate steady and non-steady state power plant emission rates.
+          - Designed and presented a research poster summarizing the project findings.
+
+      - company: Center for Climate, Health, and The Global Environment
+        position: Research Assistant
+        location: Boston, MA
+        start_date: 2/2020
+        end_date: 8/2020
+        highlights:
+          - Built a program in python to plot and test the reported emission rates by the EPA of SO2, CO2, and NOX from multiple types of power plants in the Northeast.
+          - Ran simulations using GridPIQ and AVERT programs in order to test the difference in emissions of different charging scenarios for electric vehicles in regions throughout the US.
+          - Compared the emissions for multiple electric vehicles charging scenarios with the corresponding reduction in emissions from the removal of fossil fuel powered vehicles to estimate the total bounce back in emissions.
+
+      - company: Nexamp, Inc
+        position: Solar Design Engineering Intern
+        location: Boston, MA
+        start_date: 6/2019
+        end_date: 12/2019
+        highlights:
+          - Designed site plans for potential solar projects in AutoCAD, Helios, and Helioscope, while considering local and national standards for offsets and design limitations.
+          - Performed energy model simulations in PVSyst in order to analyze the capacity factor of projects and the losses due to shading and stringing.
+          - Worked with Design and Power Engineers to update later stage project designs based on updated drawings.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Graduate Student Summer Fellow
+        awarder: Boston University Institute for Global Sustainability
+        date: 2024
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Presentations:
+      - bullet: "Sousa, B., Who Lives Near Crypto Mines? Characterizing Populations Near Cryptocurrency Mining Centers in the U.S. - Seminar presentation at the Gijs Van Seventer Environmental Health Seminar, Boston University School of Public Health, Department of Environmental Health. April 2026: Boston, MA."
+
+      - bullet: "Sousa, B., Buonocore, J., Fabian, M. P., Ryan, E., & Cleveland, C., Quantifying the Health Co-Benefits of Air Pollutant Reductions From the Mass Save Program - Poster presented at the American Geophysical Union (AGU) Annual Meeting. December 2025: New Orleans, Louisiana."
+
+      - bullet: "Sousa B., Buonocore J., Incorporating Health and Water Impacts into a Cost-Benefit Assessment of Climate Mitigation Technologies in the United States - Poster presented at the American Geophysical Union (AGU) Annual Meeting. December 2024: Washington, D.C."
+
+      - bullet: "Sousa B., Willis M., van Loenen BD., Mooney F., Buonocore JJ., The [EI]3 Database: A Tool for Understanding the Health Impacts of U.S. Energy Infrastructure - Poster presented at the International Society of Exposure Science (ISES) Annual Meeting. October 2024: Montreal, Canada"
+
+      - bullet: "Sousa B., Buonocore J., Salimifard P., Lahvis M., Allen J., Understanding Seasonal Variations of U.S. State Building Energy Demand - Preliminary findings presented at the International Society for Environmental Epidemiology - North American Chapter (ISEE NAC) Conference. June 2023: Corvallis, Oregon."
+
+      - bullet: "Sousa B., Buonocore J., Salimifard P., Parikh S., Lahvis M., Allen J., Understanding Seasonal Variations of U.S. State Energy Demand [GC42Q - Multi-sector Dynamics: Multi-sector Impacts of Energy Transitions II] - Poster presented at the American Geophysical Union (AGU) Fall Meeting. December 2022: Chicago, Illinois."
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Direct air capture has substantial health and climate opportunity costs"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Kashtan, Y.
+          - Pendleton, J.
+          - Sousa, B.
+          - Willis, M. D.
+          - Michanowicz, D. R.
+          - Shonkoff, S. B. C.
+          - Buonocore, J. J.
+        publisher: Communications Sustainability
+        releaseDate: 2026
+        url: https://doi.org/10.1038/s44458-026-00068-0
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "High populations near fossil fuel energy infrastructure across the supply chain and implications for an equitable energy transition"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Buonocore, J. J.
+          - Mooney, F. A.
+          - Campbell, E. J.
+          - Sousa, B.
+          - Van Loenen, B.
+          - Fabian, M. P.
+          - Nori-Sarma, A.
+          - Willis, M. D.
+        publisher: Environmental Research Letters
+        releaseDate: 2025
+        url: https://doi.org/10.1088/1748-9326/ae0da6
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Assessing the climate and health impacts of energy consumption in European Union countries"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Pei, G.
+          - Buonocore, J. J.
+          - Salimifard, P.
+          - Sousa, B.
+          - Ferguson, L.
+          - Allen, J. G.
+        publisher: Environmental Research Letters
+        releaseDate: 2025
+        url: https://doi.org/10.1088/1748-9326/add752
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: "Federal policy platforms and public health: Reinforcing the benefits of air pollution control devices at power plants in the United States"
+        authors:
+          - Buonocore, J. J.
+          - Fisher, J.
+          - Prull, D.
+          - Willis, M. D.
+          - Arunachalam, S.
+          - Perera, F.
+          - Kinney, P.
+          - Sousa, B.
+          - Levy, J. I.
+        publisher: American Journal of Public Health
+        releaseDate: 2025
+        url: https://doi.org/10.2105/AJPH.2024.307896
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: "A novel method for calculating the projected health and climate co-benefits of energy savings through 2050"
+        authors:
+          - Salimifard, P.
+          - Rainbolt, M. V.
+          - Buonocore, J. J.
+          - Lahvis, M.
+          - Sousa, B.
+          - Allen, J. G.
+        publisher: Building and Environment
+        releaseDate: 2023
+        url: https://doi.org/10.1016/j.buildenv.2023.110618
 
-      - name: English
-        summary: "Fluent"
+      - title: "Early Adoption of strategies to meet building performance standards increases benefits to both climate and health"
+        authors:
+          - Salimifard, P.
+          - Sousa, B.
+          - Buonocore, J.
+          - Lahvis, M.
+          - Pendleton, J.
+          - Rainbolt, M.
+          - Allen, J. G.
+        publisher: Under Review
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
