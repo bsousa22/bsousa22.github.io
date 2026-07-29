@@ -60,3 +60,7 @@ jobs:
             git commit -m "chore: render the latest CV"
             git push
           fi
+      - name: Trigger deploy
+        env:
+          GH_TOKEN: ${{ secrets.DEPLOY_PAT }}
+        run: gh workflow run deploy.yml --ref main
